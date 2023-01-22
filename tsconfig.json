@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "moduleResolution": "node",
+    "lib": [ "es2015" ],
+    "strict": true,
+    "types": ["jest", "node", "jest-extended"],
+    "noEmit": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "allowJs": true
+  },
+  "include": ["api/tests", "jest.setup.js", "jest.config.js"],
+  "files": ["types/global.d.ts"]
+}
