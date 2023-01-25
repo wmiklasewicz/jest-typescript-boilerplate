@@ -1,7 +1,7 @@
 ## Typescript Jest API tests boilerplate with reporting and examples for jest-each
 
 ### Installation
- - https://github.com/wmiklasewicz/jest-typescript-boilerplate.git
+ - git clone https://github.com/wmiklasewicz/jest-typescript-boilerplate.git
  - cd jest-typescript-boilerplate
  - npm run i
 
